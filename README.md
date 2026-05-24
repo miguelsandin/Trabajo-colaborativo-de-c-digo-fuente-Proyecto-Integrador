@@ -1,4 +1,2 @@
 # Trabajo-colaborativo-de-c-digo-fuente-Proyecto-Integrador
-Únicamente hay un archivo con el código de mathlab. Al ejecutarlo, se obtiene en la consola una tabla que indica el número de habitantes esperadao para cada año desde 2024
-hasta 2050. Estos cálculos están hechos en el código a través del modelo logístico ajustado. Al ejecutarlo, también se grafica este resultado para obtener una solución más
-visual de nuestra predicción.
+En el repositorio únicamente hay un archivo con el código de mathlab. Al ejecutarlo, se obtiene en la consola una tabla que indica el número de habitantes esperados para cada año desde 2024 hasta 2050. Estos cálculos están hechos en el código a través del modelo logístico ajustado. Al ejecutarlo, también se grafica este resultado para obtener una solución más visual de nuestra predicción.
